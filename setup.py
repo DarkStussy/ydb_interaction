@@ -12,5 +12,5 @@ setuptools.setup(
     },
     license='MIT',
     packages=['ydb_interaction'],
-    install_requires=['"ydb[yc]"==3.3.4'],
+    install_requires=['ydb[yc]==3.3.4'],
 )
